@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Chaudhary</h1>
-<h3 align="center">A passionate Competitive programmer from India</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 🔭  I’m currently working as a **software developer** at Ribbon Communications.
 
